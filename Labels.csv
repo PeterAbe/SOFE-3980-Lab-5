@@ -1,4 +1,3 @@
-Timestamp,Car1_Location_X,Car1_Location_Y,Car1_Location_Z,Car2_Location_X,Car2_Location_Y,Car2_Location_Z,Occluded_Image_view,Occluding_Car_view,Ground_Truth_View,pedestrianLocationX_TopLeft,pedestrianLocationY_TopLeft,pedestrianLocationX_BottomRight,pedestrianLocationY_BottomRight
 1736796157,-51.40297655,143,0.596902,-59.32026969,140,0.596902,A_001.png,B_001.png,C_001.png,593,361,610,410
 1736796167,-53.81963722,143,0.596902,-59.19656815,140,0.596902,A_002.png,B_002.png,C_002.png,579,368,594,415
 1736796178,-50.23914439,143,0.596902,-56.74447887,140,0.596902,A_003.png,B_003.png,C_003.png,854,720,854,720
